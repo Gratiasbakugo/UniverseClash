@@ -1,0 +1,24 @@
+/* styles.css */
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/meliodas.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    color: #333;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #666;
+}
+h1{
+    text-shadow: 0 0 20px #ff00c8, 0 0 40px #9600bc;
+   color: white;
+   text-align: center;
+   padding-top: 100px;
+   font-size: 80px;
+}
